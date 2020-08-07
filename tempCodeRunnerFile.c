@@ -1,0 +1,1 @@
+  printf("Enter the value c \n");
