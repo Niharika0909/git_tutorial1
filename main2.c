@@ -1,5 +1,8 @@
 #include <stdio.h>   // Here we use Snippets "start" 
 #include <conio.h>
+
+
+
 int main(){
      printf("XXX \n");
      int *a;
